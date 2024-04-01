@@ -7,5 +7,9 @@
 /vm/c/bin/
 /vm/rust/target/
 
+# VS Code
 .vscode/
 .metals/
+
+# macOS
+.DS_Store
